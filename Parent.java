@@ -6,4 +6,5 @@ public class Parent
   private String lastName;
   private String title;
   private String streetAddress;
+  private String city;
 }
