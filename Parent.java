@@ -4,5 +4,6 @@ public class Parent
   private String name;
   private String firstName;
   private String lastName;
-  private String title
+  private String title;
+  private String streetAddress;
 }
